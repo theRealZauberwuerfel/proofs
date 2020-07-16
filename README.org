@@ -1,0 +1,6 @@
+* proofs
+  :PROPERTIES:
+  :CUSTOM_ID: proofs
+  :END:
+
+Some proofs of theorems with various tools.
